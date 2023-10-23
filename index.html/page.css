@@ -19,7 +19,6 @@
      
 }
 .logo{
-    background-image: url("https://www.amazon.in/ref=nav_logo");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -258,7 +257,7 @@ ul a{
 .foot-panel4{
     background-color: #0f1111;
     color: white;
-    height: 100px;
+    height: 83px;
     font-size: 0.7rem;
     text-align: center;
 }
